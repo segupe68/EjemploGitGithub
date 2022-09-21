@@ -1,1 +1,3 @@
 hola a todos y bienvenidos a la clase de git y github
+
+le hice unos cammbios a este archivo
